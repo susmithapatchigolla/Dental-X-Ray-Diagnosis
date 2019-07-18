@@ -51,9 +51,9 @@ Web appilication is being developed using Scripting language javascript and tech
 
 ## Running the tests
 
+<img src="https://raw.githubusercontent.com/susmithapatchigolla/blob/Dental-X-Ray-Diagnosis/master/DirectoryPath/Example.png?sanitize=true&raw=true" />
 
-
-
+https://github.com/susmithapatchigolla/Dental-X-Ray-Diagnosis/blob/master/Screenshot%20(532).png
 
 
 
